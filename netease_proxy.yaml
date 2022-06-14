@@ -1,0 +1,8 @@
+proxies:
+  - {name: 网易云音乐灰歌解锁节点, type: http, server: 192.168.2.99, port: 8080 }
+  - name:  网易音乐云解锁
+    type: ss
+    server: music.desperadoj.com
+    port: 30001
+    cipher: aes-128-gcm
+    password: desperadoj.com_free_proxy_d39m
