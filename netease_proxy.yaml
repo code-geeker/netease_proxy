@@ -1,3 +1,2 @@
 proxies:
-  - {name: 网易音乐UNM99, type: http, server: 192.168.2.99, port: 8080 }
-  - {name: 网易音乐UNM110, type: http, server: 192.168.2.110, port: 8080 }
+  - {name: UnblockMusic, type: http, server: 192.168.2.99, port: 8080 }
